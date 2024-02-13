@@ -1,0 +1,6 @@
+{   
+    "filter_file": "filter.txt",
+    "server_a": server ID to clone,
+    "server_b": server ID where be cloned,
+    "discord_token": "discord_token"
+}
